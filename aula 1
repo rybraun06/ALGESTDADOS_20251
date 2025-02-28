@@ -1,0 +1,97 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOLdhVVeVg+5BoFTutQhaAe",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/rybraun06/ALGESTDADOS_20251/blob/main/aula%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "JJAOys-sZ7-a",
+        "outputId": "4943b45e-7a50-4dfe-aba9-4c9f5983ddfa"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "3570\n"
+          ]
+        }
+      ],
+      "source": [
+        "num1 = 1930\n",
+        "num2 = 1640\n",
+        "resultado = num1 + num2\n",
+        "print (resultado )"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "num 1 =  int(input('digite o primeiro numero))\n",
+        "num 2 = int(input('digite o primeiro numero))\n",
+        "resultado = num1 + num2\n",
+        "print ( resultado )\n"
+      ],
+      "metadata": {
+        "id": "DZiLNsYNb0M6"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "num1 =  int(input('digite o primeiro numero'\n",
+        "))\n",
+        "num2 = int(input('digite o primeiro numero'))\n",
+        "resultado = num1 + num2\n",
+        "print ( resultado )\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "sLz8jycHefQw",
+        "outputId": "9d2da468-daac-4187-915c-05bccaffbd76"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "digite o primeiro numero90\n",
+            "digite o primeiro numero10\n",
+            "100\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
